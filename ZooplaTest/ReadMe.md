@@ -5,3 +5,13 @@
 ## Later optimized the code and converted it into specflow and you can refer the FeatureFiles folder in RunnerTest project
 ## Need to add below softwares ,Nugets 
 ## Visual Studio 2022(lower version also works),Class Library Project,RestSharp,MSTest,Specflow,Newtonsoft.json
+## to run the project build it and CheckResultFeature will appear in the Test Explorer.
+##run all or one of teh tests
+
+## Questions
+## How long did you spend on the technical test? <NM: Close to 4 hours >
+##What would you add to your solution if you had more time? <NM : Make it more robust,use the Helper class,use of app.config (for parameterization),Add reporting feature ,add logs
+##If you didn't spend much time on the technical test, then use this as an opportunity to explain what you would add?
+## What do you think is the most interesting trend in test automation?
+# What other test types would you include? <NM> Few more negative flows can be  added ,use of datatables ,scenario outlie if possible 
+
