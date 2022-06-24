@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgFpPnRFNVcEzYu8GfabnfoheRrOgVNH1KdE0dsRrGxRNHC+Pj5sqC/EvYUB1085kmySmmCz6XxaMdl1dNIInw==",
+  "dgSpecHash": "6DNAE5ZYAEfvMBJ1KOioDe7aT8uR1uUFefepfxsHZZKm4i5Xu+lYyh9PfS3XIlL25ZMl2ElVbSdg+jFH46SDgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
+  "projectFilePath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nmalvia\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\nmalvia\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

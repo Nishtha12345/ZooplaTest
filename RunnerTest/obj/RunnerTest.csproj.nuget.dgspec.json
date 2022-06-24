@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\RunnerTest.csproj": {}
+    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\RunnerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\RunnerTest.csproj": {
+    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\RunnerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
+        "projectUniqueName": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
         "projectName": "RunnerTest",
-        "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
+        "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\RunnerTest.csproj",
         "packagesPath": "C:\\Users\\nmalvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\RunnerTest\\obj\\",
+        "outputPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\RunnerTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nmalvia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\DemoTest.csproj": {
-                "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\DemoTest.csproj"
+              "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\DemoTest.csproj": {
+                "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\DemoTest.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\DemoTest.csproj": {
+    "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\DemoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\DemoTest.csproj",
+        "projectUniqueName": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\DemoTest.csproj",
         "projectName": "DemoTest",
-        "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\DemoTest.csproj",
+        "projectPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\DemoTest.csproj",
         "packagesPath": "C:\\Users\\nmalvia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\git\\ZooplaTest\\ZooplaTest\\obj\\",
+        "outputPath": "C:\\Users\\nmalvia\\Desktop\\For future use\\Zoopla\\code check\\ZooplaTest\\ZooplaTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nmalvia\\AppData\\Roaming\\NuGet\\NuGet.Config",
